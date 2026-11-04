@@ -48,7 +48,7 @@ Lightweight utilities designed to enforce trading discipline, highlight pattern 
 * **[trade-limiter](https://github.com/icPriceAction/trade-limiter)** — Account protection and psychology tool to lock charts and prevent overtrading.
 * **[bar-average-time](https://github.com/icPriceAction/bar-average-time)** — Dynamic pace-of-market monitor for tick charts.
 * **[tick-counter-side](https://github.com/icPriceAction/tick-counter-side)** — Minimalist, unobtrusive tick countdown positioned on the price axis.
-* **[dockable-drawing-tile](https://github.com/icPriceAction/dockable-drawing-tile)** — Floating WPF toolbar providing one-click access to all your favorite drawing tools.
+* **[dockable-drawing-toolbar](https://github.com/icPriceAction/drawing-toolbar)** — Floating WPF toolbar providing one-click access to all your favorite drawing tools.
 * **[important-news](https://github.com/icPriceAction/important-news)** — Real-time high-impact economic calendar events projected directly onto chart timelines.
 
 ---
