@@ -62,7 +62,7 @@ High-performance Direct2D/DirectX market mechanics engines built to confirm stru
 * **[delta-profile](https://github.com/icPriceAction/delta-profile)** — Price-level delta distribution showing aggressive absorption vs. exhaustion.
 * **[bubble-sweep](https://github.com/icPriceAction/bubble-sweep)** — Visual detection of stop sweeps and aggressive market order absorption.
 * **[vwap](https://github.com/icPriceAction/vwap)** — Clean institutional Volume-Weighted Average Price with dynamic standard deviation bands.
-* **[divergence-highlighter](https://github.com/icPriceAction/divergence-highlighter)** — Visual marker for key structural price and momentum rejections.
+* **[delta-divergence](https://github.com/icPriceAction/delta-divergence)** — Visual marker for key structural price and momentum rejections.
 
 ---
 
